@@ -1,0 +1,5 @@
+/venv
+client_secret_google_ss0.json
+.env
+/OpenAi_Timestamp/__pycache__
+/OpenAi_Timestamp/migrations
